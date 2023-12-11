@@ -1,0 +1,17 @@
+.sortable.wikitable{
+    margin: 0 auto;
+    text-align: center;
+    border: groove 4px black;
+}
+
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(158, 158, 248);
+    position: relative;
+}
+
+p {
+    padding: 15px;
+    position: fixed;
+}
